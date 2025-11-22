@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             SampleGitUsecasesTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Androidfgh",
+                        name = "Androidfghsdfgh",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
